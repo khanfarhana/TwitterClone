@@ -1,0 +1,16 @@
+PODS:
+  - FMSecureTextField (1.0.0)
+
+DEPENDENCIES:
+  - FMSecureTextField
+
+SPEC REPOS:
+  trunk:
+    - FMSecureTextField
+
+SPEC CHECKSUMS:
+  FMSecureTextField: 22312d628afe7a97b50682c6708c01ecf37087d5
+
+PODFILE CHECKSUM: 5d8598f3cbf502589067694a610717d0b6fe9ba5
+
+COCOAPODS: 1.10.1
